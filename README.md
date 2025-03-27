@@ -8,6 +8,12 @@ This project is a simple Python-based BMI (Body Mass Index) calculator that take
 3. Enter weight and height when prompted.
 4. View your BMI result.
 
+Body Mass Index (BMI) Reference:
+Underweight: BMI is < 18.5
+Normal Weight: BMI is  >= 18.5 - 24.9
+Overweight: BMI is >= 25 - 29.9
+Obese: BMI is >= 30
+
 ## Example Output
 Enter your weight, in pounds: 180
 Enter your height, in inches: 72
@@ -15,3 +21,6 @@ Enter your height, in inches: 72
 Result: 
 Your BMI is: 24.41
 You are normal weight. Keep up the great work!
+
+
+
