@@ -25,8 +25,3 @@ try:
 
 except:
     print("That's not a valid number!")
-
-
-
-
-#Handle bad inputs
